@@ -1,0 +1,54 @@
+body{
+	background-color:lightgreen;
+}
+h1{
+	text-align:center;
+	color:darkgreen;
+}
+.list{
+	display:inline;
+	padding:30px;
+}
+a{
+	text-decoration:none;
+	color:darkgreen;
+	padding:20px;
+	font-size:20px;
+}
+.list:hover{
+	background-color:white;
+}
+.navbar{
+	text-align:center;
+}
+.row{
+	width: 90%; 
+	margin-left:auto;
+	margin-right:auto;
+}
+.col{
+	width:20%;
+	float:left;
+	margin-left:5%;
+	margin-right:5%;
+}
+img{
+	display:block;
+	margin-left:20px;
+	margin-right:auto;
+	width:350px;
+	height:390px;
+}
+p{
+	text-align:;
+	font-size:20px;
+	margin-left:auto;		
+	margin-right:auto;
+	display:block;
+}
+h2{
+	padding-top:70px;
+	text-align:center;
+	color:purple;
+}
+
